@@ -16,3 +16,10 @@ Fontes:
 - https://cbncuritiba.com.br/materias/pedala-curitiba-parana-tem-cerca-de-cinco-milhoes-de-bicicletas-traz-levantamento/
 - https://www.bicicletasroubadas.com.br/roubos-stats-ranking.asp
 
+# Estado da Arte:
+
+Atualmente, basicamente o mercado de dispositivos de rastreamento compatíveis com bicicletas se resumem a modelos por chip de telefonia ou o que utilizam redes bluetooth.
+- Rede Bluetooth - Projetados para funcionar como um rastreador, localizam os objetos através desta rede, que envia um sinal seguro que pode ser detectado por aparelhos celulares localizados nas redondezas.
+- Rede Telefônica - Usam chips Telefônicos, que garantem maior alcance e precisão.
+
+
