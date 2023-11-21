@@ -4,7 +4,7 @@ Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Info
 
 # Equipe:
 - Evandro José da Silva.
-- Emerson Emílio Kupsik.
+- Emerson Emílio Kupski.
 
 # Descrição:
 Bike Segura é um dispositivo de alarme para bicicletas. Você receberá uma notificação em seu celular sempre que sua bicicleta entrar em movimento.
