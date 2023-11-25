@@ -1,7 +1,6 @@
 # Bike-Segura
 Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Informação, do Instituto Federal do Paraná, Campus Pinhais.
 
-![bike](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/ada2577f-99f6-4ae1-9224-2054c353faab)
 
 # Equipe:
 - Evandro José da Silva.
@@ -11,6 +10,7 @@ Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Info
 # Visão Geral do Produto
 
 # Produto:
+![bike](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/ada2577f-99f6-4ae1-9224-2054c353faab)
 Desenvolver um aplicativo interligado no dispositivo da bicicleta, para monitorar 
 o movimento da bicicleta com aviso de mensagem no celular. Beneficio 
 proteger a bicicleta de furto evitando perdas de patrimonio.
