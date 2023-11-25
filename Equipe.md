@@ -312,6 +312,9 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3Firz
 
 
 # Personas e Mapa de Empatia
+[Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
+[Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
+
 
 # Com quem estamos sendo empáticos?
  Aqui deve constar o gênero, idade, classe, ocupação, interesses e outros dados importantes que resumem o perfil da pessoa.
