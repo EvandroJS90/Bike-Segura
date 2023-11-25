@@ -260,6 +260,45 @@ condomínios.
 https://www.maxwell.vrac.puc-rio.br/13791/13791_3.PDF
 https://www.tecmundo.com.br/tendencias/2601-como-funciona-a-rfid-.htm
 
+# Visão Geral do Projeto-ODS
+
+# - O que?
+Desenvolver um aplicativo interligado no dispositivo da bicicleta , para 
+monitorar o movimento da bicicleta com aviso de mensagem no celular. 
+Beneficio proteger a bicicleta de furto evitando perdas de patrimonio.
+# - Para quem?
+Usuários de uso de bicicletas.
+# - Por que?
+Evitar furtos de bicicletas em casas , condominios e 
+estabelecimentos.
+# - Objetivo?
+A ideia é inibir de furtos constantes de bicicletas em ambientes de casas , 
+condominios e estabelecimentos empresarias.
+# - Problema?
+Foi identificado a facilidade em que os furtos acontecem com 
+frequencia em casas e condominios e ate mesmo em 
+estabelecimentos empresariais, por meios de colegas que utilizam 
+as bicicletas como meio de transporte e esporte ao fim de semana 
+e tambem com a midia local em fatos de furtos que aumentaram 
+dentro da cidade.
+# - Proposta de solução
+O produto tem por função principal proporciona uma maior segurança do bem do 
+usuário, dentro de suas casas, condomínios e estabelecimentos empresariais.
+
+“Sensores de movimento”: O dispositivo deve estar equipado com sensores de 
+movimento sensíveis o suficiente para detectar movimentos suspeitos ou 
+vibrações na bicicleta.
+“Conectividade”: O dispositivo deve ser capaz de se conectar a dispositivos 
+móveis via Bluetooth ou outra tecnologia de comunicação sem fio.
+“Bateria de Longa Duração”: A bateria do dispositivo deve durar o máximo 
+possível para garantir a eficácia contínua do sistema, deve conter um aviso de 
+efetuar troca de bateria.
+“Sistema de Alarme”: O dispositivo deve ser capaz de ativar uma notificação em 
+caso de detecção de movimento não autorizado.
+“Integração com o Aplicativo”: Deve ser possível vincular o dispositivo ao 
+aplicativo móvel do proprietário
+
+
 # Projeto Oficina Extensão
 # Objetivo geral
 
