@@ -175,31 +175,31 @@ rastreamento de ativos.
 
 # Aqui estão os conceitos fundamentais do rastreamento via rádio:
 
-1.Etiquetas RFID: A base do rastreamento via rádio são as etiquetas RFID (RadioFrequency Identification), que são dispositivos pequenos e passivos (não necessitam de 
+1. Etiquetas RFID: A base do rastreamento via rádio são as etiquetas RFID (RadioFrequency Identification), que são dispositivos pequenos e passivos (não necessitam de 
 bateria) que contêm um microchip e uma antena. Cada etiqueta tem um código único que 
 pode ser lido por um leitor RFID.
-2.Leitores RFID: Os leitores RFID emitem sinais de rádio e são usados para ler as etiquetas 
+2. Leitores RFID: Os leitores RFID emitem sinais de rádio e são usados para ler as etiquetas 
 RFID. Quando um leitor emite um sinal, as etiquetas RFID dentro do alcance do leitor 
 respondem com seu código único. Essa resposta é então capturada pelo leitor e pode ser 
 usada para identificar o objeto ou a pessoa portadora da etiqueta.
-3.Frequências RFID: Existem diferentes faixas de frequência para RFID, incluindo baixa 
+3. Frequências RFID: Existem diferentes faixas de frequência para RFID, incluindo baixa 
 frequência (LF), alta frequência (HF) e ultrahigh frequência (UHF). Cada faixa de frequência 
 tem suas próprias características e aplicações. Por exemplo, LF é comumente usado para 
 rastreamento de animais de estimação, enquanto UHF é usado em logística e controle de 
 estoque.
-4.Rastreamento em Tempo Real: O rastreamento via rádio permite o rastreamento em 
+4. Rastreamento em Tempo Real: O rastreamento via rádio permite o rastreamento em 
 tempo real de objetos ou pessoas que possuam etiquetas RFID. Isso é especialmente útil 
 em cenários logísticos, onde pode ser importante monitorar a localização e o movimento de 
 itens em um armazém, por exemplo.
-5.Aplicações Diversificadas: Além da logística, o rastreamento via rádio é usado em uma 
+5. Aplicações Diversificadas: Além da logística, o rastreamento via rádio é usado em uma 
 variedade de aplicações, como controle de acesso, segurança de ativos, rastreamento de 
 bagagem em aeroportos, identificação de animais, rastreamento de produtos em ambientes 
 hospitalares e muito mais.
-6.Privacidade e Segurança: O uso de RFID levanta preocupações de privacidade, pois as 
+6. Privacidade e Segurança: O uso de RFID levanta preocupações de privacidade, pois as 
 etiquetas podem ser lidas sem a necessidade de contato direto. Portanto, é importante 
 implementar medidas de segurança para proteger as informações armazenadas nas 
 etiquetas RFID.
-7.Alcance e Precisão: O alcance de leitura das etiquetas RFID pode variar de alguns 
+7. Alcance e Precisão: O alcance de leitura das etiquetas RFID pode variar de alguns 
 centímetros a vários metros, dependendo da frequência e da potência do leitor. Isso permite 
 flexibilidade na aplicação da tecnologia, desde rastreamento de curta distância até 
 rastreamento de longa distância.
