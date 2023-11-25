@@ -153,7 +153,112 @@ LED plataforma livre vitalícia - TK906
 https://www.amazon.com.br/Rastreador-Projetado-Rastreamento-DispositivosPlataforma/dp/B07JKSLDXP
 
 
+# Projetos Analisados
 
+Em resumo, a escolha entre os dois tipos de dispositivos depende das prioridades do 
+usuário. Se a descrição e o custo são fundamentais, os dispositivos Bluetooth podem ser a 
+escolha certa. No entanto, se a confiabilidade e a cobertura mais ampla são mais 
+importantes, os dispositivos com chips de telefonia oferecem uma opção robusta. 
+Independentemente da escolha, ambos os sistemas têm o potencial de ajudar a proteger as 
+bicicletas contra furtos, proporcionando tranquilidade aos ciclistas.
+
+# Projeto proposto
+
+A proposta de rastreamento que estamos analisando para usar como um sistema de rastrear 
+as bicicletas de maneira distinta das outras. É um sistema baseado em rastreamento via 
+rádio, segue algumas informações sobre o nosso estudo sobre essa tecnologia.
+O rastreamento via rádio, também conhecido como rastreamento de radiofrequência (RFID), 
+é uma tecnologia que permite a identificação e o acompanhamento de objetos, animais ou 
+até mesmo pessoas por meio de sinais de rádio. Essa tecnologia tem uma ampla gama de 
+aplicações e é utilizada em diversos setores, desde logística e transporte até segurança e 
+rastreamento de ativos.
+
+# Aqui estão os conceitos fundamentais do rastreamento via rádio:
+
+1.Etiquetas RFID: A base do rastreamento via rádio são as etiquetas RFID (RadioFrequency Identification), que são dispositivos pequenos e passivos (não necessitam de 
+bateria) que contêm um microchip e uma antena. Cada etiqueta tem um código único que 
+pode ser lido por um leitor RFID.
+2.Leitores RFID: Os leitores RFID emitem sinais de rádio e são usados para ler as etiquetas 
+RFID. Quando um leitor emite um sinal, as etiquetas RFID dentro do alcance do leitor 
+respondem com seu código único. Essa resposta é então capturada pelo leitor e pode ser 
+usada para identificar o objeto ou a pessoa portadora da etiqueta.
+3.Frequências RFID: Existem diferentes faixas de frequência para RFID, incluindo baixa 
+frequência (LF), alta frequência (HF) e ultrahigh frequência (UHF). Cada faixa de frequência 
+tem suas próprias características e aplicações. Por exemplo, LF é comumente usado para 
+rastreamento de animais de estimação, enquanto UHF é usado em logística e controle de 
+estoque.
+4.Rastreamento em Tempo Real: O rastreamento via rádio permite o rastreamento em 
+tempo real de objetos ou pessoas que possuam etiquetas RFID. Isso é especialmente útil 
+em cenários logísticos, onde pode ser importante monitorar a localização e o movimento de 
+itens em um armazém, por exemplo.
+5.Aplicações Diversificadas: Além da logística, o rastreamento via rádio é usado em uma 
+variedade de aplicações, como controle de acesso, segurança de ativos, rastreamento de 
+bagagem em aeroportos, identificação de animais, rastreamento de produtos em ambientes 
+hospitalares e muito mais.
+6.Privacidade e Segurança: O uso de RFID levanta preocupações de privacidade, pois as 
+etiquetas podem ser lidas sem a necessidade de contato direto. Portanto, é importante 
+implementar medidas de segurança para proteger as informações armazenadas nas 
+etiquetas RFID.
+7.Alcance e Precisão: O alcance de leitura das etiquetas RFID pode variar de alguns 
+centímetros a vários metros, dependendo da frequência e da potência do leitor. Isso permite 
+flexibilidade na aplicação da tecnologia, desde rastreamento de curta distância até 
+rastreamento de longa distância.
+
+# Em resumo:
+
+O rastreamento via rádio é uma tecnologia versátil que utiliza etiquetas RFID 
+e leitores para identificar e rastrear objetos ou pessoas por meio de sinais de rádio. É 
+amplamente utilizado em diversas indústrias devido à sua capacidade de proporcionar 
+rastreamento em tempo real e eficiência operacional.
+Com o estudo do uso da radio frequência que estamos propondo a usar como forma de 
+rastreamento das bicicletas, também temos outras funcionalidades que estamos estudando 
+para fornecer ao nosso usuário do produto.
+
+# Segue algumas das funcionalidades em estudo de uso no projeto:
+
+1. “GPS e Rastreamento em Tempo Real”: Um componente-chave do seu dispositivo 
+pode ser um módulo GPS que permite o rastreamento em tempo real da localização da 
+bicicleta. Isso pode ser útil tanto para os proprietários quanto para as autoridades em caso 
+de roubo.
+2. “Sensores de Movimento”: Para detectar movimento não autorizado, você pode 
+incorporar sensores de movimento no dispositivo. Isso pode acionar um alerta se a bicicleta 
+for movida sem a autorização do proprietário.
+3. “Conectividade com o Smartphone”: O dispositivo pode se conectar ao aplicativo no 
+smartphone do proprietário por meio de Bluetooth ou Wi-Fi. Isso permite que o proprietário 
+receba notificações em tempo real sobre qualquer movimento irregular.
+4. “Geofencing”: Você pode implementar geofencing para criar zonas de segurança virtual. 
+Se a bicicleta sair dessas zonas sem permissão, um alerta pode ser acionado.
+5. “Bateria e Alimentação”: Garanta que o dispositivo tenha uma fonte de alimentação 
+confiável, como uma bateria recarregável de longa duração, para que ele funcione 
+continuamente.
+6. “Proteção contra Desativação”: Pense em maneiras de proteger o dispositivo contra 
+tentativas de desativação por parte de ladrões, como um invólucro à prova de violação.
+7. “Armazenamento de Dados”: O dispositivo pode armazenar dados históricos, 
+permitindo que o proprietário rastreie a movimentação da bicicleta ao longo do tempo.
+8. “Notificação para as Autoridades”: Além de notificar o proprietário, você pode 
+considerar uma função que permita que o dispositivo notifique automaticamente as 
+autoridades em caso de roubo.
+9. “Integração com Redes Sociais e Comunidade”: Permitir que os usuários 
+compartilhem informações sobre bicicletas roubadas em redes sociais ou em uma 
+comunidade pode aumentar as chances de recuperação.
+10. “Privacidade e Segurança dos Dados”: Certifique-se de considerar questões de 
+privacidade e segurança dos dados, especialmente quando se trata de informações de 
+localização pessoal.
+11. “Testes e Melhorias Contínuas”: Após o desenvolvimento, é importante realizar testes 
+rigorosos e continuar a melhorar o dispositivo com base no feedback dos usuários.
+
+# Conclusão
+
+Em relação ao nosso projeto, destacamos como o dispositivo combina tecnologia de 
+rastreamento avançada com recursos de segurança para proteger as bicicletas contra 
+furtos. Além disso, enfatizamos como isso pode proporcionar paz de espírito aos ciclistas e 
+ajudar a reduzir o problema de furtos de bicicletas em estabelecimentos, casas e 
+condomínios.
+
+# Referencias
+
+https://www.maxwell.vrac.puc-rio.br/13791/13791_3.PDF
+https://www.tecmundo.com.br/tendencias/2601-como-funciona-a-rfid-.htm
 
 
 
