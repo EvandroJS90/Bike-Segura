@@ -260,6 +260,30 @@ condomínios.
 https://www.maxwell.vrac.puc-rio.br/13791/13791_3.PDF
 https://www.tecmundo.com.br/tendencias/2601-como-funciona-a-rfid-.htm
 
+# Projeto Oficina Extensão
+# Objetivo geral
+
+Realizar uma análise forense eficaz de e-mails de phishing para identificar possíveis ameaças, compreender suas características e fornecer informações relevantes para a prevenção e mitigação de ataques cibernéticos.
+
+# Objetivos específicos  
+
+1.	Identificar e analisar os elementos-chave de um e-mail de phishing, como remetente, assunto, corpo do e-mail e anexos, a fim de determinar sua autenticidade;
+2.	Analisar os links e URLs contidos no e-mail de phishing, verificando se eles direcionam para sites legítimos ou sites falsos criados para roubar informações sensíveis;
+3.	Avaliar a linguagem utilizada no e-mail de phishing, identificando pistas de gramática e estilo que possam indicar uma tentativa de enganar o destinatário;
+4.	Recomendar medidas de prevenção e segurança com base nas descobertas da análise, ajudando a melhorar as políticas e práticas de segurança cibernética de uma organização ou indivíduo.
+
+# Justificativa 
+
+É um tema de extrema importância no campo da segurança da informação. O phishing é uma forma de ataque cibernético em que os criminosos se passam por entidades confiáveis para obter informações confidenciais dos usuários, como senhas, dados financeiros ou informações pessoais.
+O estudo da análise forense de phishing mail é essencial por várias razões. Primeiramente, o phishing é uma das técnicas mais amplamente utilizadas pelos criminosos cibernéticos devido à sua eficácia e facilidade de execução. Além disso, a análise forense de phishing mail desempenha um papel crucial na investigação de incidentes de segurança. Ao examinar cuidadosamente os e-mails de phishing, os especialistas forenses podem identificar os detalhes técnicos, como endereços IP, servidores de e-mail e padrões de comportamento dos atacantes. Essas informações são valiosas para rastrear a origem dos ataques, identificar os responsáveis e tomar medidas legais adequadas.
+Em suma, a análise forense de phishing mail é um tema fundamental para profissionais de segurança da informação, pois permite a detecção precoce, investigação adequada e mitigação de ataques de phishing. Além disso, promove a conscientização dos usuários finais e contribui para o desenvolvimento de estratégias de segurança mais eficientes. Portanto, seu estudo e compreensão são essenciais para proteger as organizações e indivíduos contra os perigos crescentes do phishing.
+   
+# Resultados esperados
+
+Espera-se que após a oficina os participantes sejam capazes de analisar e identificar as principais características de um e-mail phishing através da verificação das etapas apresentadas.
+Adicionalmente, é esperado que os alunos compreendam conceitos básicos de segurança cibernética e consigam aplicar técnicas de prevenção e medidas de segurança ativas em suas rotinas de trabalho e no uso da tecnologia para objetivos pessoais.
+
+
 
 
 
