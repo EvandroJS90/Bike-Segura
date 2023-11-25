@@ -349,6 +349,11 @@ Autocontrole de minhas bicicletas, de volta do trabalho para casa e encontras as
 
 # Esse seria o panorama de um cliente-alvo para um aplicativo de bicicleta segura, que deveria solucionar suas dores ao facilitar a segurança de suas bicicletas na sua casa e no seu trabalho.
 
+# Tarefas do projeto no trello
+
+https://trello.com/invite/b/aAY4eXm2/ATTI3a7da17b01ff3f02a6ad6c9dad13e1ed7FB5D3E2/cronograma-bikeseg
+![trello](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/e3c6c6df-aa7e-417d-a0b0-cbf8abd94198)
+
 
 
 # Projeto Oficina Extensão
