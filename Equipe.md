@@ -24,13 +24,13 @@ Atualmente, basicamente o mercado de dispositivos de rastreamento compatíveis c
 
 # Resumo SCITec- Seminario de Ciencia e Tecnologia
 
-- ANÁLISE DE PHISHING MAIL: COMO VERIFICAR E-MAILS SUSPEITOS
+# ANÁLISE DE PHISHING MAIL: COMO VERIFICAR E-MAILS SUSPEITOS
 Nome: JOICE CRISTINE OPOLIS
 Nome: CLAUDIO CESAR ADAMOWICZ
 Nome: LETÍCIA DA LUZ ANASTÁCIO
 Nome: EMERSON EMILIO KUPSKI
 
-RESUMO
+# RESUMO
 Este projeto se concentra na análise de phishing mail, que envolve a investigação e análise 
 de e-mails fraudulentos enviados para enganar destinatários e obter informações 
 confidenciais. O principal objetivo é capacitar os participantes a identificar, analisar e tomar 
@@ -48,7 +48,8 @@ Espera-se que os participantes, adquiram a capacidade de identificar e analisar 
 phishing e compreendam conceitos básicos de segurança cibernética. O projeto visa 
 contribuir para um ambiente online mais seguro, protegendo informações pessoais e 
 aumentando a conscientização sobre práticas seguras na internet.
-Palavras-chave: Autenticidade, identificação, roubo de informações, linguagem e 
-prevenção
+
+# Palavras-chave: Autenticidade, identificação, roubo de informações, linguagem e prevenção.
+
 
 
