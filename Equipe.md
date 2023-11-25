@@ -285,17 +285,17 @@ dentro da cidade.
 O produto tem por função principal proporciona uma maior segurança do bem do 
 usuário, dentro de suas casas, condomínios e estabelecimentos empresariais.
 
-“Sensores de movimento”: O dispositivo deve estar equipado com sensores de 
+1. “Sensores de movimento”: O dispositivo deve estar equipado com sensores de 
 movimento sensíveis o suficiente para detectar movimentos suspeitos ou 
 vibrações na bicicleta.
-“Conectividade”: O dispositivo deve ser capaz de se conectar a dispositivos 
+2. “Conectividade”: O dispositivo deve ser capaz de se conectar a dispositivos 
 móveis via Bluetooth ou outra tecnologia de comunicação sem fio.
-“Bateria de Longa Duração”: A bateria do dispositivo deve durar o máximo 
+3. “Bateria de Longa Duração”: A bateria do dispositivo deve durar o máximo 
 possível para garantir a eficácia contínua do sistema, deve conter um aviso de 
 efetuar troca de bateria.
-“Sistema de Alarme”: O dispositivo deve ser capaz de ativar uma notificação em 
+4. “Sistema de Alarme”: O dispositivo deve ser capaz de ativar uma notificação em 
 caso de detecção de movimento não autorizado.
-“Integração com o Aplicativo”: Deve ser possível vincular o dispositivo ao 
+5. “Integração com o Aplicativo”: Deve ser possível vincular o dispositivo ao 
 aplicativo móvel do proprietário
 
 
