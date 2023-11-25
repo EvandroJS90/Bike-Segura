@@ -1,6 +1,9 @@
 # Bike-Segura
 Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Informação, do Instituto Federal do Paraná, Campus Pinhais.
 
+# Identidade Visual
+
+![logo-BIKESEG](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/7c6b9b66-38ca-4f36-ae61-3fa8c8685a90)
 
 # Equipe:
 - Evandro José da Silva.
