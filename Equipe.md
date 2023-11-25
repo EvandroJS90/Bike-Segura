@@ -26,10 +26,11 @@ empresariais.
 # Interessados:
 Usuários de uso de bicicletas.
 # Premissas e restrições:
-# Premissa: A ideia é inibir de furtos constantes de bicicletas em ambientes de 
+ Premissa: 
+A ideia é inibir de furtos constantes de bicicletas em ambientes de 
 casas, condomínios e estabelecimentos empresarias.
 
-# Restriçao: o celular não pode estar com a bateria descarregada.
+ Restriçao: o celular não pode estar com a bateria descarregada.
 
 # Requisitos Funcionais e Recursos:
 
