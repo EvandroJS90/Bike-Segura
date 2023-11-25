@@ -18,9 +18,33 @@ Fontes:
 
 # Estado da Arte:
 
-Atualmente, basicamente o mercado de dispositivos de rastreamento compatíveis com bicicletas se resumem a modelos por chip de telefonia ou o que utilizam redes bluetooth.
-- Rede Bluetooth - Projetados para funcionar como um rastreador, localizam os objetos através desta rede, que envia um sinal seguro que pode ser detectado por aparelhos celulares localizados nas redondezas.
-- Rede Telefônica - Usam chips Telefônicos, que garantem maior alcance e precisão.
+# Pesquisa de projetos de rastreamento de antifurtos para bicicletas.
+
+ Com o preço das bicicletas cada vez mais nas alturas, proteger o patrimônio contra roubos 
+e furtos é uma preocupação cada vez mais presente entre os ciclistas. Investir em seguro, 
+trancas e localizadores remotos deixou de ser algo visto como supérfluo e passa a ser algo 
+praticamente obrigatório.
+Entre as medidas antifurto, o uso de dispositivos de localização tem se popularizado, graças 
+à melhoria de sua tecnologia, que tem resultados em produtos cada vez menores, mais 
+compactos e precisos, com o custo dos mesmos tornando-se mais acessíveis.
+Modelos disponíveis
+Atualmente, basicamente o mercado de dispositivos de rastreamento compatíveis com 
+bicicletas se resumem a modelos por chip de telefonia ou o que utilizam redes Bluetooth. 
+Rede Bluetooth- projetados para funcionar como um rastreador de carteiras, chaves, 
+bolsas e mochilas e até mesmo animais de estimação, os rastreadores Bluetooth localizam 
+objetos através desta rede, que envia um sinal seguro que pode ser detectado por outros 
+aparelhos celulares localizado nas redondezas. Esses aparelhos, então, mandam a 
+localização do seu objeto perdido, um aplicativo informa as coordenadas exatas de 
+localização no mapa. O alcance desta tecnologia é de no máximo 100 metros, que é
+ampliado conforme um celular envia informações para o outro.
+Entre as vantagens desse sistema estão o seu diminuto tamanho, que facilita ocultar o 
+dispositivo dentro da bicicleta, evitando que o mesmo possa ser encontrado pelo ladrão e 
+inutilizado. Por outro lado, o sistema depende da presença de outros aparelhos celulares 
+com o Bluetooth habilitado, de forma que a rede de buscas possa compartilhar a localização 
+da bicicleta.
+
+
+
 
 # Resumo SCITec- Seminario de Ciencia e Tecnologia
 
@@ -50,6 +74,8 @@ contribuir para um ambiente online mais seguro, protegendo informações pessoai
 aumentando a conscientização sobre práticas seguras na internet.
 
 # Palavras-chave: Autenticidade, identificação, roubo de informações, linguagem e prevenção.
+
+
 
 
 
