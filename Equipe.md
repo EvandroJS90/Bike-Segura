@@ -299,6 +299,13 @@ caso de detecção de movimento não autorizado.
 5. “Integração com o Aplicativo”: Deve ser possível vincular o dispositivo ao 
 aplicativo móvel do proprietário
 
+# Prototipagem do Mínimo Produto Viável (MVP) no Quant-UX.
+segue link do modelo de projeto Quant-UX , projeto BikeSeg.
+
+https://app.quant-ux.com/#/test.html?h=a2aa10aVttEjm4mJgQzGCUMTgexPy1dzOXPcafpqe5f6YS1OQ3QKAr7V6DOW&ln=en
+
+https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3FirzFzDEcji4SyoBnyLzVsq&ln=en
+
 
 # Projeto Oficina Extensão
 # Objetivo geral
