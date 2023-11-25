@@ -310,6 +310,43 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3Firz
 [canvas PROJETO BIKESEG, Emerson e Evandro GTI4P (1).pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464343/canvas.PROJETO.BIKESEG.Emerson.e.Evandro.GTI4P.1.pdf)
 ![canvas-projeto-bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6511efd6-d907-4c11-8f90-30f7915e1fd0)
 
+# Personas e Mapa de Empatia
+
+Com quem estamos sendo empáticos?
+
+# Aqui deve constar o gênero, idade, classe, ocupação, interesses e outros dados importantes que resumem o perfil da pessoa.
+
+# Quem é:
+Welisson, 43 anos, Professor de Educação Física, morador de Araucária, praticante de ciclismo de alto rendimento e musculação, etc.
+
+# O que busca:
+Mobilidade, ascensão profissional, gestão eficaz do tempo, aquisição de novas competências, segurança para as minhas bicicletas.
+
+#O que vê:
+Um alto índice de roubos de bicicletas, amigos sendo furtados em seus estabelecimentos.
+
+# O que fala:
+Preciso de segurança para minhas bicicletas que garanta que o meu patrimônio esteja seguro.
+
+# O que faz:
+Busca por dispositivos que ajudem na segurança de minhas bicicletas dentro de casa.
+
+# O que escuta:
+Procurar outra atividade física para fazer que não haja perdas patrimoniais significativas.
+
+# O que pensa e sente:
+Sinto que estou inseguro dentro de minha própria casa, que as minhas bicicletas estão prestes a serem furtadas a qualquer momento uma sensação de insegurança total.
+
+# Dores: 
+Dificuldade em encontrar algo que de segurança as minhas bicicletas.
+
+
+# Necessidades:
+Autocontrole de minhas bicicletas, de volta do trabalho para casa e encontras as bicicletas no mesmo lugar que as deixei.
+
+# Esse seria o panorama de um cliente-alvo para um aplicativo de bicicleta segura, que deveria solucionar suas dores ao facilitar a segurança de suas bicicletas na sua casa e no seu trabalho.
+
+
 
 # Projeto Oficina Extensão
 # Objetivo geral
