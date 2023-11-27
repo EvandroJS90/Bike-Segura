@@ -419,5 +419,38 @@ aumentando a conscientização sobre práticas seguras na internet.
 
 
 
+# Bike-Segura
+Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Informação, do Instituto Federal do Paraná, Campus Pinhais.
+
+# Identidade Visual
+![bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/9273dfa8-b4b3-41de-b394-bcb7c9ebc655)
+
+
+
+# Equipe:
+- Evandro José da Silva.
+- Emerson Emílio Kupski.
+
+# Descrição:
+# Visão Geral do Produto
+
+# Produto:
+![bike](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/ada2577f-99f6-4ae1-9224-2054c353faab)
+Desenvolver um aplicativo interligado no dispositivo da bicicleta, para monitorar 
+o movimento da bicicleta com aviso de mensagem no celular. Beneficio 
+proteger a bicicleta de furto evitando perdas de patrimonio.
+
+# Nosso produto:
+É um sistema não muito complexo de maneira que garanta uma maior 
+segurança da bicicleta.
+
+# Declaração da Solução ou Produto (Hipótese):
+O produto tem por funçao principal proporciona uma maior segurança do bem 
+do usuário, dentro de suas casas, condomínios e estabelecimentos 
+empresariais.
+
+# Interessados:
+Usuários de uso de bicicletas.
+
 
 
