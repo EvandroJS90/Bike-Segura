@@ -418,13 +418,11 @@ aumentando a conscientização sobre práticas seguras na internet.
 # Palavras-chave: Autenticidade, identificação, roubo de informações, linguagem e prevenção.
 
 
+# Apresentação do Projeto Interdisciplinar 1
+![logo IFPR](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/26870134-e924-4f31-9616-cfa349f4d9b3)
 
 # Bike-Segura
 Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Informação, do Instituto Federal do Paraná, Campus Pinhais.
-
-# Identidade Visual
-![bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/9273dfa8-b4b3-41de-b394-bcb7c9ebc655)
-
 
 
 # Equipe:
@@ -436,6 +434,7 @@ Projeto interdisciplinar do curso de Tecnologia em Gestão da Tecnologia da Info
 
 # Produto:
 ![bike](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/ada2577f-99f6-4ae1-9224-2054c353faab)
+
 Desenvolver um aplicativo interligado no dispositivo da bicicleta, para monitorar 
 o movimento da bicicleta com aviso de mensagem no celular. Beneficio 
 proteger a bicicleta de furto evitando perdas de patrimonio.
@@ -451,6 +450,81 @@ empresariais.
 
 # Interessados:
 Usuários de uso de bicicletas.
+
+# Justificativa:
+De acordo com CBN Curitiba, Paraná tem cerca de cinco milhões de bicicletas e segundo o site Bicicletas Roubadas ocupa o terceiro lugar no ranking nacional de roubos de bicicletas. Visando aumentar a segurança dos usuários o Bike Segura tem como objetivo deixar o usuário tranquilo, sabendo que se alguém mexer em sua bicicleta, o celular irá notifica-lo para que ele possa agir imediatamente e evitar o roubo.
+
+Fontes:
+- https://cbncuritiba.com.br/materias/pedala-curitiba-parana-tem-cerca-de-cinco-milhoes-de-bicicletas-traz-levantamento/
+- https://www.bicicletasroubadas.com.br/roubos-stats-ranking.asp
+
+
+# Visão Geral do Projeto-ODS
+
+# - O que?
+Desenvolver um aplicativo interligado no dispositivo da bicicleta , para 
+monitorar o movimento da bicicleta com aviso de mensagem no celular. 
+Beneficio proteger a bicicleta de furto evitando perdas de patrimonio.
+# - Para quem?
+Usuários de uso de bicicletas.
+# - Por que?
+Evitar furtos de bicicletas em casas , condominios e 
+estabelecimentos.
+# - Objetivo?
+A ideia é inibir de furtos constantes de bicicletas em ambientes de casas , 
+condominios e estabelecimentos empresarias.
+# - Problema?
+Foi identificado a facilidade em que os furtos acontecem com 
+frequencia em casas e condominios e ate mesmo em 
+estabelecimentos empresariais, por meios de colegas que utilizam 
+as bicicletas como meio de transporte e esporte ao fim de semana 
+e tambem com a midia local em fatos de furtos que aumentaram 
+dentro da cidade.
+# - Proposta de solução
+O produto tem por função principal proporciona uma maior segurança do bem do 
+usuário, dentro de suas casas, condomínios e estabelecimentos empresariais.
+
+# Identidade Visual
+![bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/9273dfa8-b4b3-41de-b394-bcb7c9ebc655)
+
+# Personas e Mapa de Empatia
+[Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
+[Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
+
+# Esse seria o panorama de um cliente-alvo para um aplicativo de bicicleta segura, que deveria solucionar suas dores ao facilitar a segurança de suas bicicletas na sua casa e no seu trabalho.
+
+# Storyboard
+
+[canvas PROJETO BIKESEG, Emerson e Evandro GTI4P (1).pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464343/canvas.PROJETO.BIKESEG.Emerson.e.Evandro.GTI4P.1.pdf)
+![canvas-projeto-bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6511efd6-d907-4c11-8f90-30f7915e1fd0)
+
+
+# Prototipagem do Mínimo Produto Viável (MVP) no Quant-UX.
+segue link do modelo de projeto Quant-UX , projeto BikeSeg.
+
+https://app.quant-ux.com/#/test.html?h=a2aa10aVttEjm4mJgQzGCUMTgexPy1dzOXPcafpqe5f6YS1OQ3QKAr7V6DOW&ln=en
+
+https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3FirzFzDEcji4SyoBnyLzVsq&ln=en
+
+# Tecnologias utilizadas para o desenvolvimento
+
+Criação do Aplicativo usando o ANDROIDSTUDIO linguagem em Java.
+
+Montagem do dispositivo Hardware com uso de chips e placas com sistemas integrados.
+
+![Dispositivo hardware](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/5495009b-839e-46fa-9763-a1df1ef08efd)
+
+![Descrição dispositivo hardware](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/c47496ef-025f-42f7-8b1b-c9a2396b284d)
+
+# Tarefas do projeto no trello
+
+https://trello.com/invite/b/aAY4eXm2/ATTI3a7da17b01ff3f02a6ad6c9dad13e1ed7FB5D3E2/cronograma-bikeseg
+![trello](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/e3c6c6df-aa7e-417d-a0b0-cbf8abd94198)
+
+
+
+
+
 
 
 
