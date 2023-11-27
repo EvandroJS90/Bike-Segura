@@ -265,6 +265,8 @@ condomínios.
 https://www.maxwell.vrac.puc-rio.br/13791/13791_3.PDF
 https://www.tecmundo.com.br/tendencias/2601-como-funciona-a-rfid-.htm
 
+
+
 # Visão Geral do Projeto-ODS
 
 # - O que?
@@ -314,6 +316,12 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3Firz
 
 [canvas PROJETO BIKESEG, Emerson e Evandro GTI4P (1).pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464343/canvas.PROJETO.BIKESEG.Emerson.e.Evandro.GTI4P.1.pdf)
 ![canvas-projeto-bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6511efd6-d907-4c11-8f90-30f7915e1fd0)
+
+# ELABORAÇÃO DE ENTREVISTAS DE IDENTIFICAÇÃO E CONSCIENTIZAÇÃO DO PROBLEMA.
+
+Segue link do questionario com as devidas alterações.
+
+https://docs.google.com/forms/d/e/1FAIpQLSfJQEZmqLqj_ZLSGdFjti_frM466URn9g9gvdNXH54jfg8LxA/viewform
 
 
 # Personas e Mapa de Empatia
