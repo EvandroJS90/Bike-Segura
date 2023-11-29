@@ -314,8 +314,10 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3Firz
 
 # Storyboard
 
-[canvas PROJETO BIKESEG, Emerson e Evandro GTI4P (1).pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464343/canvas.PROJETO.BIKESEG.Emerson.e.Evandro.GTI4P.1.pdf)
-![canvas-projeto-bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6511efd6-d907-4c11-8f90-30f7915e1fd0)
+![1](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6e4ef3ca-ca88-4026-933c-9ee063269d11)
+![2](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/d246d1e0-6d1b-4809-8815-93280d751332)
+![3](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/bb1e110e-4ff6-44f7-9fcf-fc7b91a7b2d3)
+
 
 # ELABORAÇÃO DE ENTREVISTAS DE IDENTIFICAÇÃO E CONSCIENTIZAÇÃO DO PROBLEMA.
 
