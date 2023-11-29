@@ -317,7 +317,7 @@ https://app.quant-ux.com/#/test.html?h=a2aa10aVjKeQ6SQvg85l1Pd5C17yOEywjEly3Firz
 ![1](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/6e4ef3ca-ca88-4026-933c-9ee063269d11)
 ![2](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/d246d1e0-6d1b-4809-8815-93280d751332)
 ![3](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/bb1e110e-4ff6-44f7-9fcf-fc7b91a7b2d3)
-
+https://www.youtube.com/watch?v=JrhQjDN56VQ&t=15s
 
 # ELABORAÇÃO DE ENTREVISTAS DE IDENTIFICAÇÃO E CONSCIENTIZAÇÃO DO PROBLEMA.
 
