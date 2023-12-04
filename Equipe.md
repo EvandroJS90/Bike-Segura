@@ -509,6 +509,15 @@ usuário, dentro de suas casas, condomínios e estabelecimentos empresariais.
 # Identidade Visual
 ![bikeseg](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/9273dfa8-b4b3-41de-b394-bcb7c9ebc655)
 
+# APLICAÇÃO DO QUESTIONARIO DE ENTREVISTAS.
+# HISTORICO:
+![1-COM QUE FREQ-USA BIKE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/8b7eaea4-bb30-43f7-98ed-d5ec9255df67)
+![2- VOCE SE SENTE SEGURO BIKE COMERCIO](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/e5900d08-852c-48b5-98cb-f933f085db43)
+![3- VOCE JA TEVE BIKE ROUBADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/1a58ac02-dd92-4a3e-927e-858393547a84)
+![4-MORA -CASA-COND-CHAC](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/8d9d95f1-489e-4308-b576-962b2fc77245)
+![5-LOCAL AONDE FICA A BIKE GUARDADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/2bf906d9-b535-435b-beda-550349e5c449)
+
+
 # Personas e Mapa de Empatia
 [Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
 [Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
