@@ -333,8 +333,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfJQEZmqLqj_ZLSGdFjti_frM466URn9g9gvdNX
 ![VOCE TEM BIKE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/db659dd4-c185-4a78-8524-d7f3ac679e50)
 ![1-COM QUE FREQ-USA BIKE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/f0d12ef7-1f37-4c91-a8e7-26dd98e303c2)
 ![3- VOCE JA TEVE BIKE ROUBADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/c696a476-4b29-45c4-915a-efadb193bde0)
-[Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
-[Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
 ![5-LOCAL AONDE FICA A BIKE GUARDADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/aa7101af-3ec3-482f-bb1b-f05b6f67c437)
 ![2- VOCE SE SENTE SEGURO BIKE COMERCIO](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/7d28b2e0-aaf2-4a77-8ce0-6fd8d31aeac8)
 ![4-MORA -CASA-COND-CHAC](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/615e98b6-e5bb-4cff-b059-039d99eb6bf1)
@@ -342,6 +340,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfJQEZmqLqj_ZLSGdFjti_frM466URn9g9gvdNX
 
 
 # Personas e Mapa de Empatia
+[Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
+[Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
 
 # Com quem estamos sendo empáticos?
  Aqui deve constar o gênero, idade, classe, ocupação, interesses e outros dados importantes que resumem o perfil da pessoa.
