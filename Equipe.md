@@ -324,10 +324,25 @@ Segue link do questionario com as devidas alterações.
 
 https://docs.google.com/forms/d/e/1FAIpQLSfJQEZmqLqj_ZLSGdFjti_frM466URn9g9gvdNXH54jfg8LxA/viewform
 
+# APLICAÇÃO DO QUESTIONARIO DE ENTREVISTAS.
+# HISTORICO.
+![SEU NOME](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/32410b81-6940-4f42-8d6e-7648833383a0)
+![QUAL SUA IDADE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/c226de61-7415-4ea3-adc7-d82dd2e0e8de)
+![EM QUE CIDADE MORA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/ac7afb45-b19f-4a3c-99cb-f04bcf451cc8)
+![EM QUE CIDADE TRABALHA E ESTUDA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/158928cc-ca1a-4970-873d-97d827001a13)
+![VOCE TEM BIKE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/db659dd4-c185-4a78-8524-d7f3ac679e50)
+![1-COM QUE FREQ-USA BIKE](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/f0d12ef7-1f37-4c91-a8e7-26dd98e303c2)
+![3- VOCE JA TEVE BIKE ROUBADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/c696a476-4b29-45c4-915a-efadb193bde0)
+
+
 
 # Personas e Mapa de Empatia
 [Personas Wagner.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464976/Personas.Wagner.pdf)
 [Personas Carlos.pdf](https://github.com/EvandroJS90/Bike-Segura/files/13464977/Personas.Carlos.pdf)
+![5-LOCAL AONDE FICA A BIKE GUARDADA](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/aa7101af-3ec3-482f-bb1b-f05b6f67c437)
+![2- VOCE SE SENTE SEGURO BIKE COMERCIO](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/7d28b2e0-aaf2-4a77-8ce0-6fd8d31aeac8)
+![4-MORA -CASA-COND-CHAC](https://github.com/EvandroJS90/Bike-Segura/assets/126627799/615e98b6-e5bb-4cff-b059-039d99eb6bf1)
+[ENTREVISTA RELACIONADA AO USO E SEGURANÇA DAS BICICLETAS. (respostas).xlsx](https://github.com/EvandroJS90/Bike-Segura/files/13548399/ENTREVISTA.RELACIONADA.AO.USO.E.SEGURANCA.DAS.BICICLETAS.respostas.xlsx)
 
 
 # Com quem estamos sendo empáticos?
